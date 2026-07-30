@@ -1,0 +1,23 @@
+# MounRiver/Eclipse local metadata
+.mrs/
+
+# Build output
+obj/
+Release/
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS/editor files
+.DS_Store
+Thumbs.db
