@@ -49,6 +49,20 @@ LMX2572 的 RF 输出为差分结构，本板将其转换为单端 SMA 测试接
   - `RFOUTBP` 通过匹配/隔直网络连接到 SMA
   - `RFOUTBM` 通过隔直电容后 50 ohm 到地端接
 
+## 2D渲染图
+
+PCB整体尺寸为**50mm*30mm**
+
+正面：
+
+<img width="2160" height="1295" alt="2D_PCB1_2026-07-30" src="https://github.com/user-attachments/assets/1eea7be8-1d35-47a4-8dd9-d91098f29301" />
+
+
+背面：
+
+<img width="2160" height="1295" alt="2D_PCB1_bottom_2026-07-30" src="https://github.com/user-attachments/assets/efe03ce0-2414-40f8-9b65-43951359aa00" />
+
+
 # 软件部分
 
 ## MCU 引脚连接
